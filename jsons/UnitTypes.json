@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Civilian",
+        "movementType": "Land"
+    },
+	    {
+        "name": "Barbarian",
+        "movementType": "Land"
+    },
+    {
+        "name": "Player",
+        "movementType": "Land",
+		"uniques": ["Invisible to non-adjacent units","Can move after attacking","Never appears as a Barbarian unit"]
+	}
+
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Domination",
+        "victoryScreenHeader": "Destroy all enemies\nto win!",
+        "milestones": ["Destroy all players"],
+        "victoryString": "You are the last player to be alive! Celebrate your victory when you can, who knows what the future holds!",
+        "defeatString": "You have been killed. Better luck next time. And one day - you will taste the sweet taste of victory!"
+    },
+]

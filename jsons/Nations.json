@@ -1,0 +1,172 @@
+[
+	//Spectator
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+
+	{
+		//nations
+		"name": "Player 1",
+		"leaderName": "Pro Player",
+		"adjective": ["Mysterious"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "Will you survive?",
+
+		"declaringWar": "You are dead!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Player Eliminated",
+		"introduction": "Hello there!",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes???",
+
+		"tradeRequest": "What do you say?",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"uniqueName": "Unknown Citizen",
+		"uniques": ["Enables embarkation for land units <starting from the [Combat era]>", "Enables [All] units to enter ocean tiles <starting from the [Combat era]>", "Normal vision when embarked <for [All] units>"],
+		"cities": ["Ghost City"]
+	},
+		{
+		//nations
+		"name": "Player 2",
+		"leaderName": "Pro Player",
+		"adjective": ["Mysterious"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "Will you survive?",
+
+		"declaringWar": "You are dead!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Player Eliminated",
+		"introduction": "Hello there!",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes???",
+
+		"tradeRequest": "What do you say?",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"uniqueName": "Unknown Citizen",
+		"uniques": ["Enables embarkation for land units <starting from the [Combat era]>", "Enables [All] units to enter ocean tiles <starting from the [Combat era]>", "Normal vision when embarked <for [All] units>"],
+		"cities": ["Ghost City"]
+	},
+		{
+		//nations
+		"name": "Player 3",
+		"leaderName": "Pro Player",
+		"adjective": ["Mysterious"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "Will you survive?",
+
+		"declaringWar": "You are dead!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Player Eliminated",
+		"introduction": "Hello there!",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes???",
+
+		"tradeRequest": "What do you say?",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"uniqueName": "Unknown Citizen",
+		"uniques": ["Enables embarkation for land units <starting from the [Combat era]>", "Enables [All] units to enter ocean tiles <starting from the [Combat era]>", "Normal vision when embarked <for [All] units>"],		
+		"cities": ["Ghost City"]
+	},
+		{
+		//nations
+		"name": "Player 4",
+		"leaderName": "Pro Player",
+		"adjective": ["Mysterious"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "Will you survive?",
+
+		"declaringWar": "You are dead!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Player Eliminated",
+		"introduction": "Hello there!",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes???",
+
+		"tradeRequest": "What do you say?",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"uniqueName": "Unknown Citizen",
+		"uniques": ["Enables embarkation for land units <starting from the [Combat era]>", "Enables [All] units to enter ocean tiles <starting from the [Combat era]>", "Normal vision when embarked <for [All] units>"],
+		"cities": ["Ghost City"]
+	},
+		{
+		//nations
+		"name": "Player 5",
+		"leaderName": "Pro Player",
+		"adjective": ["Mysterious"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "Will you survive?",
+
+		"declaringWar": "You are dead!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Player Eliminated",
+		"introduction": "Hello there!",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes???",
+
+		"tradeRequest": "What do you say?",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"uniqueName": "Unknown Citizen",
+		"uniques": ["Enables embarkation for land units <starting from the [Combat era]>", "Enables [All] units to enter ocean tiles <starting from the [Combat era]>", "Normal vision when embarked <for [All] units>"],
+		"cities": ["Ghost City"]
+	},
+		{
+		//nations
+		"name": "Player 6",
+		"leaderName": "Pro Player",
+		"adjective": ["Mysterious"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "Will you survive?",
+
+		"declaringWar": "You are dead!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Player Eliminated",
+		"introduction": "Hello there!",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes???",
+
+		"tradeRequest": "What do you say?",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"uniqueName": "Unknown Citizen",
+		"uniques": ["Enables embarkation for land units <starting from the [Combat era]>", "Enables [All] units to enter ocean tiles <starting from the [Combat era]>", "Normal vision when embarked <for [All] units>"],
+		"cities": ["Ghost City"]
+	},
+		//Barbarian
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+		"innerColor": [182,0,0],
+		"uniques": ["Can only heal by pillaging"]
+	}
+]

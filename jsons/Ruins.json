@@ -1,0 +1,12 @@
+[
+    {
+        "name": "drone to scout for enemies",
+        "notification": "A [Drone] has joined us!",
+        "uniques": ["Free [Drone] found in the ruins"],
+    },
+    {
+        "name": "advanced weaponry for your explorer",
+        "notification": "I've found better armor and weapons!",
+        "uniques": ["This Unit upgrades for free including special upgrades"]
+    },
+]

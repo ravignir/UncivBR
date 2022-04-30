@@ -1,0 +1,142 @@
+[
+
+	{
+		"name": "Combat Medicine",
+		"uniques": ["Heal this unit by [40] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Battle Hardened I",
+		"uniques": ["[+10]% Strength <when fighting in [Open terrain] tiles> <when defending>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Rush I",
+		"uniques": ["[+10]% Strength <when fighting in [Open terrain] tiles> <when attacking>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Tortoise I",
+		"uniques": ["[+10]% Strength <when fighting in [Rough terrain] tiles> <when defending>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Tiger I",
+		"uniques": ["[+10]% Strength <when fighting in [Rough terrain] tiles> <when attacking>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+		{
+		"name": "Battle Hardened II",
+		"prerequisites": ["Battle Hardened I"],
+		"uniques": ["[+10]% Strength <when fighting in [Open terrain] tiles> <when defending>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Rush II",
+		"prerequisites": ["Rush I"],
+		"uniques": ["[+10]% Strength <when fighting in [Open terrain] tiles> <when attacking>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Tortoise II",
+		"prerequisites": ["Tortoise I"],
+		"uniques": ["[+10]% Strength <when fighting in [Rough terrain] tiles> <when defending>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Tiger II",
+		"prerequisites": ["Tiger I"],
+		"uniques": ["[+10]% Strength <when fighting in [Rough terrain] tiles> <when attacking>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+		{
+		"name": "Battle Hardened III",
+		"prerequisites": ["Battle Hardened II"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when defending>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Rush III",
+		"prerequisites": ["Rush II"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Tortoise III",
+		"prerequisites": ["Tortoise II"],
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when defending>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Tiger III",
+		"prerequisites": ["Tiger II"],
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Run for your lives I",
+		"uniques": ["[+1] Movement","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Run for your lives II",
+		"prerequisites": ["Run for your lives I"],
+		"uniques": ["[+2] Movement","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Run for your lives",
+		"prerequisites": ["Run for your lives II"],
+		"uniques": ["[+3] Movement","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Lurker",
+		"uniques": ["[+15]% Strength <when fighting in [Forest] tiles>", "[+15]% Strength <when fighting in [Jungle] tiles>","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+		{
+		"name": "Endurance I",
+		"uniques": ["[+5] HP when healing","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	{
+		"name": "Endurance II",
+		"prerequisites": ["Endurance I"],
+		"uniques": ["[+5] HP when healing","[+50]% XP gained from combat"],
+		"unitTypes": ["Player"]
+	},
+	// bonus promotions
+	{
+		"name": "Tactical Gear",
+		"uniques": ["Can see invisible [Player] units"],
+	},
+	{
+		"name": "Builder Kit",
+		"uniques": ["Can build [Trench] improvements on tiles"],
+	},
+	{
+		"name": "Vehicle",
+		"uniques": ["[+4] Movement"],
+	},
+	{
+		"name": "Running Shoes",
+		"uniques": ["Ignores terrain cost"],
+	},
+	{
+		"name": "Rifle",
+		"uniques": ["[+25]% Strength <when attacking>"],
+	},
+	{
+		"name": "Armor",
+		"uniques": ["[+25]% Strength <when defending>"],
+	},
+	{
+		"name": "Military Equipment",
+		"uniques": ["[+15]% Strength"],
+	},
+	{
+		"name": "Medicines",
+		"uniques": ["Unit will heal every turn, even if it performs an action"],
+	},
+]
