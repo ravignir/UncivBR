@@ -1,0 +1,27 @@
+[
+	
+	{ 
+		"name": "Ancient ruins", 
+		"uniques": ["Unpillagable", "Provides a random bonus when entered"]
+	},
+	{ 
+		"name": "Loot box", 
+		"uniques": ["Unpillagable", "Provides a random bonus when entered"]
+	},
+	{ 
+		"name": "Loot crate", 
+		"uniques": ["Unpillagable", "Provides a random bonus when entered"]
+	},
+	{ 
+		"name": "Loot building", 
+		"uniques": ["Unpillagable", "Provides a random bonus when entered"]
+	},
+	{ 
+		"name": "Healing pack", 
+		"uniques": ["Can be pillaged to heal"]
+	},
+	{ 
+		"name": "Danger Zone", 
+		"uniques": ["Can be pillaged to heal"]
+	},
+]
